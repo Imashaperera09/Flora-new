@@ -77,7 +77,7 @@ header .logo span{
 header .navbar a{
     font-size: 2rem;
     padding: 0 1.5rem;
-    color: #666;
+    color: #0a0202;
 }
 
 header .navbar a:hover{
@@ -112,7 +112,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(../tulips-bouquet.jpg) no-repeat;
+    background: url(../home/white-background-with-delicate-flower.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
